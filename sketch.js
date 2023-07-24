@@ -21,7 +21,7 @@ function preload(){
   
   fondoImage = loadImage("backgroundImg.png");
   //backgroundImg = loadImage("bg_dia.png");
-  backgroundImgN = loadImage("bgfinalfuture.png");
+  backgroundImgN = loadImage("Bgfinalfuture.png");
   //sunAnimation = loadImage("sun.png");
   
   trex_running = loadAnimation("Byjusaurio01.png","Byjusaurio02.png");
